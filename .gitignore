@@ -1,0 +1,20 @@
+# ignore maven files
+**/target/
+
+# ignore backup files
+*~
+
+# ignore eclipse specific files
+/bin/
+/.settings/
+/.project
+/.classpath
+
+# ignore IDEA specific files
+/out/
+/.idea/
+*.iml
+
+# ignore adhoc files
+**/adhoc/
+**/Adhoc*
