@@ -1,2 +1,2 @@
 # dessertj.github.io
-[Startpage for DessertJ](https://github.com/dessertj)
+[Startpage for DessertJ](https://dessertj.github.io)
